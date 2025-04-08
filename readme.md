@@ -1,6 +1,6 @@
 # 📊 Desviación Estándar paso a paso con Python
 
-Este notebook acompaña el artículo de LinkedIn **"La desviación estándar: esa fórmula que ignoré hasta que la entendí con los ojos"**, donde explico [cómo aplicar este concepto estadístico de forma visual y práctica.](https://www.linkedin.com/in/novelo-luis/)
+Este notebook acompaña el artículo de LinkedIn [**"La desviación estándar: esa fórmula que ignoré hasta que la entendí con los ojos"**](https://www.linkedin.com/pulse/la-desviaci%25C3%25B3n-est%25C3%25A1ndar-esa-f%25C3%25B3rmula-que-ignor%25C3%25A9-hasta-entend%25C3%25AD-novelo-zj4le/), donde explico cómo aplicar este concepto estadístico de forma visual y práctica.
 
 ---
 
